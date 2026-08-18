@@ -70,8 +70,12 @@
 
 ### 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nadouulh&show_icons=true&theme=radical&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadouulh&layout=compact&theme=radical&hide_border=true" />
+<a href="https://github.com/nadouulh">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nadouulh&show_icons=true&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/nadouulh">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadouulh&layout=compact&theme=radical&hide_border=true" />
+</a>
 
 </div>
 
@@ -81,11 +85,7 @@
 
 ## 🐍 My Contributions
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nadouulh/nadouulh/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nadouulh/nadouulh/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/nadouulh/nadouulh/output/github-contribution-grid-snake.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/nadouulh/nadouulh/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 

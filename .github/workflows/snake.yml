@@ -24,9 +24,11 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg
 
       - name: Deploy to output branch
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: dist
-          destination_dir: output
-          force_orphan: true
+        run: |
+          cd dist
+          git init
+          git checkout -b output
+          git add .
+          git -c user.name="github-actions[bot]" -c user.email="github-actions[bot]@users.noreply.github.com" commit -m "Update snake animation"
+          git remote add origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/nadouulh/nadouulh.git
+          git push --force origin output

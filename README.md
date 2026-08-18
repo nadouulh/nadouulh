@@ -8,16 +8,6 @@
 
 <div align="center">
 
-### Engineering Student in DevOps @ Polytech Montpellier & DevOps Engineer Apprentice @ RAILwAI
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7B42BC&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Cloud+%7C+IaC+%7C+Containers+%7C+CI%2FCD;Automating+all+the+things;Always+learning+something+new)](https://git.io/typing-svg)
-
-</div>
-
----
-
-<div align="center">
-
 ### 🛠️ Tech Stack
 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -55,12 +45,9 @@
 
 <div align="center">
 
-### 🔗 Connect with me
+## 🐍 My Contributions
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nadia-lahya-0b357a330)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-1384-2095)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nadouulh)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nadia.lahya@railwai.com)
+<img src="https://raw.githubusercontent.com/nadouulh/nadouulh/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
@@ -85,16 +72,11 @@
 
 <div align="center">
 
-## 🐍 My Contributions
+### 🔗 Connect with me
 
-<img src="https://raw.githubusercontent.com/nadouulh/nadouulh/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=nadouulh&color=7B42BC&style=for-the-badge&label=PROFILE+VISITORS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nadia-lahya-0b357a330)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-1384-2095)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nadouulh)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nadia.lahya@railwai.com)
 
 </div>

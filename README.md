@@ -59,10 +59,18 @@
 
 <p>
   <a href="https://github.com/nadouulh">
-    <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=nadouulh&show_icons=true&theme=radical&hide_border=true" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api?username=nadouulh&show_icons=true&theme=radical&hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api?username=nadouulh&show_icons=true&theme=default&hide_border=true" />
+      <img alt="Nadia's GitHub stats" height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=nadouulh&show_icons=true&theme=default&hide_border=true" />
+    </picture>
   </a>
   <a href="https://github.com/nadouulh">
-    <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nadouulh&layout=compact&theme=radical&hide_border=true" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nadouulh&layout=compact&theme=radical&hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nadouulh&layout=compact&theme=default&hide_border=true" />
+      <img alt="Top Languages" height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nadouulh&layout=compact&theme=default&hide_border=true" />
+    </picture>
   </a>
 </p>
 

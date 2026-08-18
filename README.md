@@ -59,10 +59,10 @@
 
 <p>
   <a href="https://github.com/nadouulh">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nadouulh&show_icons=true&theme=radical&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=nadouulh&show_icons=true&theme=radical&hide_border=true" />
   </a>
   <a href="https://github.com/nadouulh">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadouulh&layout=compact&theme=radical&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nadouulh&layout=compact&theme=radical&hide_border=true" />
   </a>
 </p>
 

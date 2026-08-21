@@ -30,7 +30,7 @@ I am an Apprentice DevOps & Systems Engineer studying at [Polytech Montpellier](
 *Internship @ IMT Mines Alès — EuroMov Digital Health in Motion*
 
 **[🎵 doremix](https://github.com/nadouulh/doremix)** — Collaborative music ecosystem powered by YouTube<br>
-*Web app + CLI*
+*School Project — Web app + CLI*
 
 </div>
 

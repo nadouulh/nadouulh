@@ -25,8 +25,8 @@ BLOBS = []
 HEAD = """<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}">
 <defs>
   <linearGradient id="glassLight" x1="0" y1="0" x2="0" y2="1">
-    <stop offset="0" stop-color="#ffffff" stop-opacity="0.55"/>
-    <stop offset="1" stop-color="#ffffff" stop-opacity="0.14"/>
+    <stop offset="0" stop-color="#d0d0d0" stop-opacity="0.7"/>
+    <stop offset="1" stop-color="#e8e8e8" stop-opacity="0.4"/>
   </linearGradient>
   <linearGradient id="glassDark" x1="0" y1="0" x2="0" y2="1">
     <stop offset="0" stop-color="#ffffff" stop-opacity="0.17"/>
@@ -36,7 +36,7 @@ HEAD = """<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewB
 </defs>
 <style>
   .glass {{ fill: url(#glassLight); filter: drop-shadow(0 1px 3px rgba(0,0,0,0.12)); backdrop-filter: blur(6px); -webkit-backdrop-filter: blur(6px); }}
-  .border {{ fill: none; stroke: #ffffff; stroke-opacity: 0.65; stroke-width: 1; }}
+  .border {{ fill: none; stroke: #b0b0b0; stroke-opacity: 0.7; stroke-width: 1; }}
   text {{ fill: #1f2328; font-family: -apple-system,"Segoe UI",Helvetica,Arial,"Apple Color Emoji","Segoe UI Emoji"; }}
   @media (prefers-color-scheme: dark) {{
     .glass {{ fill: url(#glassDark); filter: drop-shadow(0 1px 3px rgba(0,0,0,0.45)); backdrop-filter: blur(6px); -webkit-backdrop-filter: blur(6px); }}

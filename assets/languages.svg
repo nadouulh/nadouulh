@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="716" height="40" viewBox="0 0 716 40">
+<defs>
+  <linearGradient id="glassLight" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#ffffff" stop-opacity="0.55"/>
+    <stop offset="1" stop-color="#ffffff" stop-opacity="0.14"/>
+  </linearGradient>
+  <linearGradient id="glassDark" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#ffffff" stop-opacity="0.17"/>
+    <stop offset="1" stop-color="#ffffff" stop-opacity="0.03"/>
+  </linearGradient>
+
+</defs>
+<style>
+  .glass { fill: url(#glassLight); filter: drop-shadow(0 1px 3px rgba(0,0,0,0.12)); backdrop-filter: blur(6px); -webkit-backdrop-filter: blur(6px); }
+  .border { fill: none; stroke: #ffffff; stroke-opacity: 0.65; stroke-width: 1; }
+  text { fill: #1f2328; font-family: -apple-system,"Segoe UI",Helvetica,Arial,"Apple Color Emoji","Segoe UI Emoji"; }
+  @media (prefers-color-scheme: dark) {
+    .glass { fill: url(#glassDark); filter: drop-shadow(0 1px 3px rgba(0,0,0,0.45)); backdrop-filter: blur(6px); -webkit-backdrop-filter: blur(6px); }
+    .border { stroke-opacity: 0.22; }
+    text { fill: #e6edf3; }
+    .mono { filter: brightness(0) invert(1); }
+  }
+</style>
+<g><rect class="glass" x="0" y="4" width="170" height="32" rx="10"/><rect class="border" x="0" y="4" width="170" height="32" rx="10"/><text x="12" y="25" font-size="14">🇫🇷</text><text x="36" y="25" font-weight="bold" font-size="14">French</text><text x="94" y="25" font-size="14">🟢</text><text x="116" y="25" font-size="14">Native</text></g>
+<g><rect class="glass" x="182" y="4" width="170" height="32" rx="10"/><rect class="border" x="182" y="4" width="170" height="32" rx="10"/><text x="194" y="25" font-size="14">🇮🇹</text><text x="218" y="25" font-weight="bold" font-size="14">Italian</text><text x="278" y="25" font-size="14">🟢</text><text x="300" y="25" font-size="14">Native</text></g>
+<g><rect class="glass" x="364" y="4" width="170" height="32" rx="10"/><rect class="border" x="364" y="4" width="170" height="32" rx="10"/><text x="376" y="25" font-size="14">🇬🇧</text><text x="400" y="25" font-weight="bold" font-size="14">English</text><text x="466" y="25" font-size="14">🔵</text><text x="488" y="25" font-size="14">Fluent</text></g>
+<g><rect class="glass" x="546" y="4" width="170" height="32" rx="10"/><rect class="border" x="546" y="4" width="170" height="32" rx="10"/><text x="558" y="25" font-size="14">🇲🇦</text><text x="582" y="25" font-weight="bold" font-size="14">Arabic</text><text x="638" y="25" font-size="14">🟢</text><text x="660" y="25" font-size="14">Native</text></g>
+</svg>

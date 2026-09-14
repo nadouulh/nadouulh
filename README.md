@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Nadia%20Lahya&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20Engineer%20Apprentice%20%7C%20Cloud%20Enthusiast&descSize=16&descAlignY=55&descAlign=50" width="100%"/>
-
 </div>
 
 ---
@@ -9,7 +8,7 @@
 
 ### 🙋‍♀️ About me
 
-I am an Apprentice DevOps & Systems Engineer studying at [Polytech Montpellier](https://polytech.umontpellier.fr) and working at [RAILwAI](https://www.railwai.com/en) — building CI pipelines, managing our hybrid infrastructure (GCP and on-premise), and automating infrastructure with Terraform/OpenTofu.
+I'm an DevOps & Systems Engineer Apprentice studying at [Polytech Montpellier](https://polytech.umontpellier.fr) and working at [RAILwAI](https://www.railwai.com/en) — building CI pipelines, managing our hybrid infrastructure (GCP and on-premise), and automating infrastructure with Terraform/OpenTofu.
 
 🔭 Deepening my knowledge of Kubernetes internals, Cloud, GitOps and FinOps<br>
 🧠 Fascinated by neurosciences and Deep Learning<br>
@@ -38,30 +37,75 @@ I am an Apprentice DevOps & Systems Engineer studying at [Polytech Montpellier](
 
 <div align="center">
 
-### 🛠️ Tech Stack
+<h3>🛠️ Tech Stack</h3>
 
-![Systems & Linux](https://img.shields.io/badge/-Systems_&_Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<div style="display: flex; flex-direction: column; align-items: center; gap: 6px;">
 
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Scaleway](https://img.shields.io/badge/-Scaleway-64CCCA?style=for-the-badge&logo=scaleway&logoColor=white)
+  <!-- Ligne 1 : Langages & Scripting -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <!-- Linux -->
+    <div style="background-color: rgba(128,128,128,0.15); border: 1px solid rgba(128,128,128,0.25); padding: 5px; border-radius: 8px; display: inline-flex; align-items: center; justify-content: center;" title="Linux">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="26" height="26" alt="Linux" />
+    </div>
+    <!-- Rust -->
+    <div style="background-color: rgba(128,128,128,0.15); border: 1px solid rgba(128,128,128,0.25); padding: 5px; border-radius: 8px; display: inline-flex; align-items: center; justify-content: center;" title="Rust">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="26" height="26" alt="Rust" />
+    </div>
+    <!-- Python -->
+    <div style="background-color: rgba(128,128,128,0.15); border: 1px solid rgba(128,128,128,0.25); padding: 5px; border-radius: 8px; display: inline-flex; align-items: center; justify-content: center;" title="Python">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="26" height="26" alt="Python" />
+    </div>
+    <!-- Bash -->
+    <div style="background-color: rgba(128,128,128,0.15); border: 1px solid rgba(128,128,128,0.25); padding: 5px; border-radius: 8px; display: inline-flex; align-items: center; justify-content: center;" title="Bash">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="26" height="26" alt="Bash" />
+    </div>
+  </div>
 
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![OpenTofu](https://img.shields.io/badge/-OpenTofu-FF1744?style=for-the-badge&logo=opentofu&logoColor=white)
-![Ansible](https://img.shields.io/badge/-Ansible-1A1918?style=for-the-badge&logo=ansible&logoColor=white)
+  <!-- Ligne 2 : Cloud, Infrastructure as Code & Configuration -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <!-- Google Cloud -->
+    <div style="background-color: rgba(128,128,128,0.15); border: 1px solid rgba(128,128,128,0.25); padding: 5px; border-radius: 8px; display: inline-flex; align-items: center; justify-content: center;" title="Google Cloud">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="26" height="26" alt="Google Cloud" />
+    </div>
+    <!-- Terraform -->
+    <div style="background-color: rgba(128,128,128,0.15); border: 1px solid rgba(128,128,128,0.25); padding: 5px; border-radius: 8px; display: inline-flex; align-items: center; justify-content: center;" title="Terraform">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="26" height="26" alt="Terraform" />
+    </div>
+    <!-- OpenTofu -->
+    <div style="background-color: rgba(128,128,128,0.15); border: 1px solid rgba(128,128,128,0.25); padding: 5px; border-radius: 8px; display: inline-flex; align-items: center; justify-content: center;" title="OpenTofu">
+      <img src="https://cdn.simpleicons.org/opentofu" width="26" height="26" alt="OpenTofu" />
+    </div>
+    <!-- Docker -->
+    <div style="background-color: rgba(128,128,128,0.15); border: 1px solid rgba(128,128,128,0.25); padding: 5px; border-radius: 8px; display: inline-flex; align-items: center; justify-content: center;" title="Docker">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="26" height="26" alt="Docker" />
+    </div>
+    <!-- Kubernetes -->
+    <div style="background-color: rgba(128,128,128,0.15); border: 1px solid rgba(128,128,128,0.25); padding: 5px; border-radius: 8px; display: inline-flex; align-items: center; justify-content: center;" title="Kubernetes">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="26" height="26" alt="Kubernetes" />
+    </div>
+    <!-- Ansible -->
+    <div style="background-color: rgba(128,128,128,0.15); border: 1px solid rgba(128,128,128,0.25); padding: 5px; border-radius: 8px; display: inline-flex; align-items: center; justify-content: center;" title="Ansible">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="26" height="26" alt="Ansible" />
+    </div>
+  </div>
 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/-ArgoCD-FC6D01?style=for-the-badge&logo=argo&logoColor=white)
+  <!-- Ligne 4 : CI/CD & Automatisation -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <!-- GitHub Actions -->
+    <div style="background-color: rgba(128,128,128,0.15); border: 1px solid rgba(128,128,128,0.25); padding: 5px; border-radius: 8px; display: inline-flex; align-items: center; justify-content: center;" title="GitHub Actions">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="26" height="26" alt="GitHub Actions" />
+    </div>
+    <!-- Bitbucket Pipelines -->
+    <div style="background-color: rgba(128,128,128,0.15); border: 1px solid rgba(128,128,128,0.25); padding: 5px; border-radius: 8px; display: inline-flex; align-items: center; justify-content: center;" title="Bitbucket">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" width="26" height="26" alt="Bitbucket" />
+    </div>
+    <!-- GitLab CI -->
+    <div style="background-color: rgba(128,128,128,0.15); border: 1px solid rgba(128,128,128,0.25); padding: 5px; border-radius: 8px; display: inline-flex; align-items: center; justify-content: center;" title="GitLab CI">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="26" height="26" alt="GitLab CI" />
+    </div>
+  </div>
 
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/-GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket_Pipelines-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
-
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+</div>
 
 </div>
 
@@ -106,22 +150,32 @@ I am an Apprentice DevOps & Systems Engineer studying at [Polytech Montpellier](
 
 ### 🌍 Languages
 
-![French](https://img.shields.io/badge/French-Native-FF6B9D?style=for-the-badge&labelColor=FF6B9D)
-![Italian](https://img.shields.io/badge/Italian-Native-7B42BC?style=for-the-badge&labelColor=7B42BC)
-![English](https://img.shields.io/badge/English-Fluent-90EE90?style=for-the-badge&labelColor=90EE90)
-![Arabic](https://img.shields.io/badge/Arabic-Native-FFD700?style=for-the-badge&labelColor=FFD700)
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
+
+  <div style="background-color: rgba(128,128,128,0.15); border: 1px solid rgba(128,128,128,0.25); padding: 5px 12px; border-radius: 8px; display: inline-flex; align-items: center; gap: 6px;">
+    <span>🇫🇷 French</span>
+    <span style="color: #3fb950; font-size: 11px;">●</span>
+    <span style="font-size: 12px;">Native</span>
+  </div>
+
+  <div style="background-color: rgba(128,128,128,0.15); border: 1px solid rgba(128,128,128,0.25); padding: 5px 12px; border-radius: 8px; display: inline-flex; align-items: center; gap: 6px;">
+    <span>🇮🇹 Italian</span>
+    <span style="color: #3fb950; font-size: 11px;">●</span>
+    <span style="font-size: 12px;">Native</span>
+  </div>
+
+  <div style="background-color: rgba(128,128,128,0.15); border: 1px solid rgba(128,128,128,0.25); padding: 5px 12px; border-radius: 8px; display: inline-flex; align-items: center; gap: 6px;">
+    <span>🇬🇧 English</span>
+    <span style="color: #58a6ff; font-size: 11px;">●</span>
+    <span style="font-size: 12px;">Fluent</span>
+  </div>
+
+  <div style="background-color: rgba(128,128,128,0.15); border: 1px solid rgba(128,128,128,0.25); padding: 5px 12px; border-radius: 8px; display: inline-flex; align-items: center; gap: 6px;">
+    <span>🇲🇦 Arabic</span>
+    <span style="color: #3fb950; font-size: 11px;">●</span>
+    <span style="font-size: 12px;">Native</span>
+  </div>
 
 </div>
-
----
-
-<div align="center">
-
-### 🔗 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nadia-lahya-0b357a330)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-1384-2095)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nadouulh)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nadia.lahya@railwai.com)
 
 </div>
